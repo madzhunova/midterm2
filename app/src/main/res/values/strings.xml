@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Midterm2.DHT_2_19.Madzhunova_Anelya</string>
+    <string name="settings">Settings</string>
+    <string name="sam_smith">Sam Smith</string>
+    <string name="johnd">JohnD</string>
+    <string name="reputation">Reputation</string>
+    <string name="_120">120</string>
+    <string name="bio">Bio:</string>
+    <string name="Lorem">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget.</string>
+    <string name="new_york">New York</string>
+</resources>
