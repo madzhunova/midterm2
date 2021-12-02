@@ -8,4 +8,14 @@
     <string name="bio">Bio:</string>
     <string name="Lorem">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget.</string>
     <string name="new_york">New York</string>
+    <string name="_2">2</string>
+    <string name="_48">48</string>
+    <string name="_5">5</string>
+    <string name="pods">Pods</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="about">About</string>
+    <string name="age_24">Age:24</string>
+    <string name="gender_male">Gender:Male</string>
+    <string name="relationship_looking">Relationship:Looking</string>
 </resources>

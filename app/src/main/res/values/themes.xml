@@ -51,4 +51,53 @@
         <item name="android:text">@string/new_york</item>
         <item name="android:textSize">@dimen/text_size_18sp</item>
     </style>
+    <style name="Pods_2">
+        <item name="android:text">@string/_2</item>
+        <item name="android:textSize">@dimen/text_size_18sp</item>
+        <item name="android:textColor">@color/text_color_light_green</item>
+    </style>
+    <style name="Following_48">
+        <item name="android:text">@string/_48</item>
+        <item name="android:textSize">@dimen/text_size_18sp</item>
+        <item name="android:textColor">@color/text_color_light_green</item>
+    </style>
+    <style name="Followers_5">
+        <item name="android:text">@string/_5</item>
+        <item name="android:textSize">@dimen/text_size_18sp</item>
+        <item name="android:textColor">@color/text_color_light_green</item>
+    </style>
+    <style name="Pods">
+        <item name="android:text">@string/pods</item>
+        <item name="android:textSize">@dimen/text_size_15sp</item>
+    </style>
+    <style name="Following">
+        <item name="android:text">@string/following</item>
+        <item name="android:textSize">@dimen/text_size_15sp</item>
+    </style>
+    <style name="Followers">
+        <item name="android:text">@string/followers</item>
+        <item name="android:textSize">@dimen/text_size_15sp</item>
+    </style>
+    <style name="About">
+        <item name="android:text">@string/about</item>
+        <item name="android:textSize">@dimen/text_size_18sp</item>
+        <item name="android:textColor">@color/text_color_back</item>
+    </style>
+    <style name="Age">
+        <item name="android:text">@string/age_24</item>
+        <item name="android:textSize">@dimen/text_size_15sp</item>
+        <item name="android:textColor">@color/text_color_blue</item>
+    </style>
+    <style name="Gender">
+        <item name="android:text">@string/gender_male</item>
+        <item name="android:textSize">@dimen/text_size_15sp</item>
+        <item name="android:textColor">@color/text_color_blue</item>
+    </style>
+
+    <style name="Relationship">
+        <item name="android:text">@string/relationship_looking</item>
+        <item name="android:textSize">@dimen/text_size_15sp</item>
+        <item name="android:textColor">@color/text_color_blue</item>
+    </style>
+
 </resources>
